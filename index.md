@@ -2,7 +2,7 @@
 title: Home
 layout: home
 ---
-
+JSK 논문정리
 
 [Just the Docs]: https://just-the-docs.github.io/just-the-docs/
 [GitHub Pages]: https://docs.github.com/en/pages
