@@ -4,12 +4,6 @@ layout: home
 ---
 JSK 논문정리
 
----
-title: Nerf
-layout: default
----
-JSK 논문정리
-
 [Just the Docs]: https://just-the-docs.github.io/just-the-docs/
 [GitHub Pages]: https://docs.github.com/en/pages
 [README]: https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md
